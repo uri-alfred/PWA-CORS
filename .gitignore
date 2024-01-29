@@ -1,16 +1,16 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-/cors/node_modules
+/api-react/node_modules
 /servidor/node_modules
-/cors/.pnp
-/cors.pnp.js
+/api-react/.pnp
+/api-react/.pnp.js
 
 # testing
-/cors/coverage
+/api-react/coverage
 
 # production
-/cors/build
+/api-react/build
 
 # misc
 .DS_Store
